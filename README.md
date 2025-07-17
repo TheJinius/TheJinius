@@ -29,7 +29,7 @@
 
 <a href="https://TrueJinius.pythonanywhere.com/link">
   <img
-    src="https://TrueJinius.pythonanywhere.com"
+    src="https://TrueJinius.pythonanywhere.com?spin=true&theme=dark&scan=true&eq_color=rainbow"
     alt="Current Spotify Song"
   />
 </a>
