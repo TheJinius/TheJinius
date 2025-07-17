@@ -27,11 +27,12 @@
 
 ## 🎧 Now Playing on Spotify
 
-<p align="center">
-  <a href="https://open.spotify.com/user/ninjajin">
-    <img src="https://img.shields.io/badge/Spotify--232946?style=for-the-badge&logo=spotify&logoColor=2EC4B6" alt="Spotify Badge"/>
-  </a>
-</p>
+<a href="https://TrueJinius.pythonanywhere.com/link">
+  <img
+    src="https://TrueJinius.pythonanywhere.com"
+    alt="Current Spotify Song"
+  />
+</a>
 
 ---
 
