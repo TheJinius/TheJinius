@@ -29,7 +29,7 @@
 
 <p align="center">
   <a href="https://open.spotify.com/user/ninjajin">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=ninjajin&cover_image=true&theme=natemoo-re&show_offline=false&background_color=232946&bar_color=2EC4B6&bar_color_cover=false"/>
+    <img src="https://img.shields.io/badge/Spotify--232946?style=for-the-badge&logo=spotify&logoColor=2EC4B6" alt="Spotify Badge"/>
   </a>
 </p>
 
