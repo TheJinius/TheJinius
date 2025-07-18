@@ -47,8 +47,8 @@
 <details>
   <summary>📝 <b>Fun Facts & Stuff</b></summary>
   <ul>
-    <li>💡 I love hackathons with cool ideas & design polish.</li>
-    <li>🛠️ I'm a fan of building tools for productivity, fun, and impact.</li>
+    <li>💡 I love cats, I have 6.</li>
+    <li>🛠️ I listen to so much music I use 3 platforms.</li>
     <li>🎵 Vibecoder.</li>
   </ul>
 </details>
